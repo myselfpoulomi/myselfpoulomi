@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
 <h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
-<h3 align="center">Full-Stack Developer | Clean , Responsive , User Friendly Web Application </h3>
+<h3 align="center">Full-Stack Developer |  </h3>
 
 ### About Me  
 - 💻 Full-Stack Developer  
@@ -11,7 +11,7 @@
 - ⚡ Passionate about tackling challenges & solving complex problems
 - 🚀 Worked on several real-world projects, delivering high-quality, scalable solutions
 - 🧠 Skilled in leveraging the latest AI tools like Lovable AI, Cursor, V0, and more to supercharge development
-- 🧑‍💻 Proficient in building clean, modular code and scalable architectures across the full stack 
+- 🧑‍💻 Get Clean , Responsive , User Friendly Web Application
 
 </div>
 
