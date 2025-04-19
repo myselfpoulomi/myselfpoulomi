@@ -1,14 +1,51 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
-- 👋 Hi, I’m @myselfpoulomi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+<h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
+<h3 align="center">Full-Stack Developer </h3>
 
-<!---
-myselfpoulomi/myselfpoulomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me  
+- 💻 Full-Stack Developer  
+- 🔥 Experienced in React js , Node js , Mongodb , Express js, Tailwind CSS
+- 🎯 Eager to Learn , Focused ,  Always Curious
+- ⚡ Passionate about tackling challenges & solving complex problems
+- 🚀 Worked on several real-world projects, delivering high-quality, scalable solutions
+- 🧠 Skilled in leveraging the latest AI tools like Lovable AI, Cursor, V0, and more to supercharge development
+- 🧑‍💻 Proficient in building clean, modular code and scalable architectures across the full stack 
+
+</div>
+
+<p align="center">     </p>
+<hr/>
+
+<div align="center">
+  <table style="width: 100%;">
+  <tr><td><strong >Technologies</strong></td></tr>
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vite,html,css,javascript,react,tailwind,nodejs,express,mongodb,postgres,firebase,postman,npm,pnpm,vscode,ubuntu,bash,java,cpp,c,git,vercel,netlify" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 20px;">
+        <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=myselfpoulomi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+      </td>
+      <td>
+        <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=myselfpoulomi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+      </td>
+    </tr>
+  </table>
+</div>
