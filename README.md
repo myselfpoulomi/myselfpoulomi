@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
 
 <h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
-<h3 align="center">Full-Stack Developer | From Idea to Deployment in No Time  </h3>
+<h3 align="center">Full-Stack Developer | From Idea to Deployment in No Time ⏱️ </h3>
 
 ### About Me  
 - 💻 Full-Stack Developer  
