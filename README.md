@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=santanu4246.santanu4246" />
+<img src="https://user-images.githubusercontent.com/74038190/212898792-2844553a-e201-4eec-a5e2-3b0f532712e6.gif" width="200">
 
 <h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
 <h3 align="center">Full-Stack Developer | From Idea to Deployment in No Time ⏱️ </h3>
