@@ -9,7 +9,7 @@
 </div> -->
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+ <!--  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500"> -->
 
 <h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
 <h3 align="center">Full-Stack Developer | From Idea to Deployment in No Time ⏱️ </h3>
