@@ -10,17 +10,8 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="1000">
  <!--  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500"> -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="path-to-js-icon" alt="JS" width="60">
-  <img src="path-to-vscode-icon" alt="VS Code" width="60">
-  <img src="path-to-node-icon" alt="Node.js" width="60">
-  <img src="path-to-react-icon" alt="React" width="60">
-  <img src="path-to-github-icon" alt="GitHub" width="60">
-  <img src="path-to-firebase-icon" alt="Firebase" width="60">
-  <img src="path-to-express-icon" alt="Express" width="60">
-  <img src="path-to-html-icon" alt="HTML5" width="60">
-  <img src="path-to-css-icon" alt="CSS3" width="60">
-</div>
+
+ 
 
 
 
