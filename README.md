@@ -9,7 +9,7 @@
 </div> -->
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="10000">
- <!--  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500"> -->
+<!--   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500"> -->
 
  
 
@@ -58,7 +58,7 @@
   <table>
     <tr>
       <td style="padding-right: 20px;">
-<!--         <img width="390" src="https://streak-stats.demolab.com/?user=myselfpoulomi&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
+        <img width="390" src="https://streak-stats.demolab.com/?user=myselfpoulomi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
       </td>
       <td>
         <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfpoulomi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
