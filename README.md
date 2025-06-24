@@ -22,7 +22,7 @@
 <h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
 <h3 align="center">Full-Stack Developer | From Idea to Deployment in No Time ⏱️ </h3>
 
-### About Me-
+### About Me:
 - 💻 Full-Stack Developer  
 - 🔥 Experienced in React js , Node js , Mongodb , Express js, Tailwind CSS
 - 🎯 Eager to Learn , Focused ,  Always Curious
