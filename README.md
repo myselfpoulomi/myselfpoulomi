@@ -20,7 +20,7 @@
 
  
 <h1 align="center">Hi 👋, I'm Poulomi Routh</h1>
-<h3 align="center">Full-Stack Developer | From Idea to Deployment  </h3>
+<h3 align="center">Full-Stack Developer | From Idea to Deployment 💡 </h3>
 
 ### About Me-
 - 💻 Full-Stack Developer  
