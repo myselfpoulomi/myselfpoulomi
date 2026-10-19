@@ -29,7 +29,7 @@
 - ⚡ Passionate about tackling challenges & solving complex problems
 - 🚀 Worked on several real-world projects, delivering high-quality, scalable solutions
 - 🧠 Skilled in leveraging the latest AI tools like Lovable AI, Cursor, V0, and more to supercharge development
-- 🧑‍💻 Get Clean , Responsive , User Friendly Web Application
+- 🧑‍💻 Get Clean , Responsive , User Friendly Web Application,
 
 </div>
 
